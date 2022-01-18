@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-#1.1 OICs Address
+# 1.1 OICs Address
 Hey OGLs!
 
 First off, thank you for stepping up to contribute positively to the school as seniors to the incoming batch of Y5s.
@@ -23,6 +23,11 @@ As this is the second time we will run an Orientation programme in the midst of 
 
 Your Orientation ICs,
 Jonathan and Sarrah
+
+<details>
+    <summary>Toggle Switch</summary>
+    This is so genius of you sarrah
+</details>
 
 
 
